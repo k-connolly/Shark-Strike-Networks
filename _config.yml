@@ -1,4 +1,13 @@
 theme: jekyll-theme-hacker
 title: Shark Strike Networks Blog Page
 description: Show-casing all I've learned from my studies
-author: duology
+author: 
+  name: duology
+  email: duologic.org@gmail.com
+  url: https://k-connolly.github.io/Shark-Strike-Networks/
+
+baseurl: /
+
+paginate: 10
+owner: duology
+year: 2026
