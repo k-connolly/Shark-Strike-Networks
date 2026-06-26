@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Home
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./another-page.html).
+[Link to another page](./about.html).
 
 There should be whitespace between paragraphs.
 
