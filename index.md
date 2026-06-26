@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Shark Strike Networks Blog
 ---
