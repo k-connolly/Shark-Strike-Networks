@@ -6,8 +6,14 @@ author:
   email: duologic.org@gmail.com
   url: https://k-connolly.github.io/Shark-Strike-Networks/
 
-baseurl: /
+baseurl: /Shark-Strike-Networks
 
-paginate: 10
 owner: duology
 year: 2026
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
