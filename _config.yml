@@ -1,6 +1,6 @@
-remote_theme: pages-themes/hacker@v.2.0
+remote_theme: pages-themes/hacker@latest
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 title: Shark Strike Networks Blog Page
 description: Show-casing all I've learned from my studies
 author: duology
